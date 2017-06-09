@@ -1,3 +1,4 @@
+<?
 // parameters
 $hubVerifyToken = 'goldmanagement';
 $accessToken =   "EAAB7UP1IpbEBAEn68IYYm1tEt5RdZCSlZAje0X0Jz4MMlUzf9ZCdZBivXeC01q0LdrrZC3P6mtfcKffEKPkhplSEhSldZBGLMPolRWxRG9hj9v3eQ8p0ZCfKw4xyuaVntCGrE1ZBo0TMoEcmoHSvj7l6SQpWjphSuhWipZCy0b8jplAZDZD";
@@ -29,3 +30,5 @@ $result = curl_exec($ch);
 }
 curl_close($ch);
 }
+
+?>
